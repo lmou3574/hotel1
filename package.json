@@ -1,0 +1,11 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "基于SpringBoot实现的酒店管理系统，包括三种角色：管理员、酒店工作人员、客户。\r - 管理员功能：客房管理、客房类型管理、酒店工作人员管理、其他所有权限\r - 酒店工作人员功能：客户管理、客房浏览查询、预定客房、查看所有订单列表、财务管理\r - 客户功能：注册、登录、找回密码、客房浏览查询、预定客房、查看自己订单列表",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
